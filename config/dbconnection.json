@@ -1,0 +1,3 @@
+{
+    "url":"mongodb://admin:password@127.0.0.1:27017/myexam2023?authSource=admin"
+}
